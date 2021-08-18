@@ -1,10 +1,12 @@
-# Steganography
+# Deepfake Countermeasure
 
-Sign an image with a watermark, then verify a signed image to evaluate the authenticity
+A novel deepfake countemeasure, using steganography, facial detection, cryptography, and watermarking.
+
+This was a Senior Design project for Cleveland State University during the 2020-21 school year, developed by [Kyle Corcoran](https://github.com/Kyle-C-CSU), [Jacob Ressler](https://github.com/jacob-ressler), and [Abdullahi Mohamed](https://github.com/Abdul-web) under the advisement of Dr. Ye Zhu.
 
 ## Table of Contents
 
-- [Steganography](#steganography)
+- [Deepfake Countermeasure](#deepfake-countermeasure)
   - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
   - [How to Use](#how-to-use)
